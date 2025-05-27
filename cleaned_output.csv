@@ -1,0 +1,6 @@
+name,email,has_joined_event,Job Title,LinkedIn,linkedin_flag,job_title_flag
+Venkatesh R,venkatesh@gmail.com,False,Freelance,https://linkedin.com/in/venkatesh-r-42845a282,False,False
+Mark Jawut,mark@gmail.com,False,Student,MarkJawut,True,False
+Arushi Yadav,arushi@gmail.com,True,Unemployed,https://www.linkedin.com/in/arushi-yadav-68744830b,False,False
+Amit B,amit@gmail.com,False,Lead Engineer,https://www.linkedin.com/in/amitb-ba,False,False
+Abanonu David,abanonu@gmail.com,False,Data Analyst,Abanonudavid,True,False
